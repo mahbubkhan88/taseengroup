@@ -1,0 +1,308 @@
+.facebook-icon {
+    background-color: #4a74c9 !important;
+}
+
+.linkedin-icon {
+    background-color: #0495e0 !important;
+}
+
+.youtube-icon {
+    background-color: #fe4545 !important;
+}
+
+.instagram-icon {
+    background-color: #A938A0 !important;
+}
+
+.social-icons li a {
+    color: #fff !important;
+}
+
+.facebook {
+    background-color: #4a74c9 !important;
+}
+
+.social_icon .facebook a {
+    background-color: #4a74c9 !important;
+}
+
+.social_icon .linkedin a {
+    background-color: #0495e0 !important;
+}
+
+.social_icon .twitter a {
+    background-color: #00acee !important;
+}
+
+.counter i {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.section-primary p .highlighted-word {
+    font-size: 1.6em;
+}
+
+.section-primary p span:not(.highlighted-word) {
+    color: #FFF;
+    display: block;
+    font-size: 1rem;
+    font-weight: 300;
+    padding-top: 5px;
+    opacity: 0.7;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.content-css {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+}
+
+
+
+
+
+
+/* New */
+/* Add here all your CSS customizations */
+
+.border_bottom {
+    border-bottom: 3px solid #08c !important;
+}
+
+.slider-title-1 {
+    background-color: red;
+    padding: 5px 20px;
+    border-radius: 3px;
+    opacity: 0.8 !important;
+}
+
+.slider-title-bottom-1 {
+    background-color: red;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    margin-bottom: 0;
+    font-weight: bold !important;
+    color: #fff !important;
+    opacity: 0.8 !important;
+}
+
+.slider-title-2 {
+    background-color: #7C007C;
+    padding: 5px 20px;
+    border-radius: 3px;
+    opacity: 0.8 !important;
+}
+
+.slider-title-bottom-2 {
+    background-color: #7C007C;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 0;
+    font-weight: bold !important;
+    color: #fff !important;
+    opacity: 0.8 !important;
+}
+
+.slider-title-3 {
+    background-color: #002E9F;
+    padding: 5px 20px;
+    border-radius: 3px;
+    opacity: 0.8 !important;
+}
+
+.slider-title-bottom-3 {
+    background-color: #002E9F;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 0;
+    font-weight: bold !important;
+    color: #fff !important;
+    opacity: 0.8 !important;
+}
+
+.company-title {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.min-height {
+    min-height: 320px;
+    max-height: 320px;
+    background-color: #fff;
+    border-radius: 3px;
+}
+
+html .testimonial-primary blockquote {
+    background-color: #fff !important;
+}
+
+.testimonial-area {
+    background-image: url(../img/bg/client-feedback.jpg) !important;
+    -webkit-background-size: cover !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+/*.img-our-client {
+    max-width: 50% !important;
+    height: auto;
+}*/
+
+.blockquote {
+    background: #FFF;
+    border-radius: 5px;
+    border: 0;
+    color: #666;
+    font-family: 'Arial', serif;
+    margin: 0;
+    padding: 30px;
+    position: relative;
+}
+
+.testimonial-font {
+    font-size: 16px;
+}
+
+.blog-imgs {
+    height: 160px !important;
+    width: 100% !important;
+}
+
+.facebook-icon {
+    background-color: #4a74c9;
+}
+
+.linkedin-icon {
+    background-color: #0495e0;
+}
+
+.youtube-icon {
+    background-color: #fe4545;
+}
+
+.instagram-icon {
+    background-color: #A938A0;
+}
+
+
+/*Company Profile Page*/
+dl.horizontal dt {
+    float: left;
+    overflow: hidden;
+    clear: left;
+    text-align: right;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+dl.horizontal dd {
+    margin-left: 15.25rem;
+}
+
+.section-primary p .highlighted-word {
+    font-size: 1.6em;
+}
+
+.highlighted-word {
+    /* font-family: "Shadows Into Light", cursive; */
+    font-weight: 500;
+}
+
+.section-primary p span:not(.highlighted-word) {
+    color: #FFF;
+    display: block;
+    font-size: 0.8em;
+    font-weight: 300;
+    padding-top: 5px;
+    opacity: 0.7;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.msg-facebook a {
+    background: #5e86d6 !important;
+}
+
+.msg-twitter a {
+    background: #3aacf3 !important;
+}
+
+.msg-linkedin a {
+    background: #24acf0 !important;
+}
+
+
+/* Project page sidebar css */
+.project__sidebar .widget {
+    border: 2px solid #F7F7F7;
+    padding: 20px 15px 15px;
+    margin-bottom: 15px;
+}
+
+.project__sidebar .widget .title {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    margin-bottom: 26px;
+}
+
+.project__sidebar .sidebar__contact__info li {
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 13px;
+}
+
+.project__sidebar .sidebar__contact__info li span {
+    font-weight: 500;
+    color: #191B1E;
+    margin-right: 5px;
+}
+
+/* Project page sidebar css */
+
+
+/* Active */
+#mainNav li a:hover {
+    text-decoration: none !important;
+}
+
+.current-page-active {
+    color: #08c !important;
+    text-decoration: none !important;
+}
+
+/* Active */
+
+
+.img-size {
+    width: 100%;
+    height: auto;
+}
+
+.dash-tags {
+    background: #28a745;
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: #fff;
+}
+
+.details-blog-img {
+    width: 80px;
+    height: auto;
+}

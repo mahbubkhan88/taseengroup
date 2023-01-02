@@ -1,0 +1,36 @@
+.mt5 {
+    margin-top: 5px;
+}
+
+.t_b_pdding {
+    margin: 0 !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 22px !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #3C8DBC !important;
+    border: 1px solid #3C8DBC !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #FFF !important;
+}
+
+.user-block .username,
+.user-block .description,
+.user-block .comment {
+    margin-left: 0px !important;
+}
+
+.blog-img {
+    border: 2px solid #000;
+    width: 150px;
+    height: auto;
+}
+
+.blog-img-details {
+    border: 2px solid #000;
+}
